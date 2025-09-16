@@ -6,6 +6,8 @@
 <img width="300" height="200" alt="130384f5-2824-452b-a7c1-bf5eb02893da" src="https://github.com/user-attachments/assets/e58a8f80-bc2b-49e9-a670-584cf7a94719" />
 <img width="300" height="200" alt="54390f06-aa6a-4053-b3b8-c2d91815b92e" src="https://github.com/user-attachments/assets/cb612ad3-2ec5-40bf-aee1-102067657322" />
 <img width="300" height="200" alt="5628e08a-3634-4232-9c88-c9dd4203b853" src="https://github.com/user-attachments/assets/b2bb050f-4816-412f-b613-c45ae89e641e" />
+<img width="300" height="200" alt="d968585ef26e9b9d089c4337ce20df50" src="https://github.com/user-attachments/assets/e892d15f-6222-4128-a2d0-840ee0486ae2" />
+<img width="300" height="200" alt="9a8756b92df2a1bb3352e73b5727d6b0" src="https://github.com/user-attachments/assets/7ebf60f0-37e4-44ac-9b76-d762dca14c9b" />
 
 ## 欢迎使用
 欢迎使用 Augment-K！这是一个专为 Augment 用户设计的 Token 管理工具，帮助您轻松管理和使用 Augment API 令牌。<br><br>
